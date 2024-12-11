@@ -73,4 +73,4 @@ int main() {
     writeCSV(filename, time, sinValues, cosValues);
 
     return 0;
-}
+}klglksgölsföslkf
