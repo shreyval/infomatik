@@ -4,7 +4,7 @@
 #include <cmath>
 #include <string>
 
-const double PI = 3.141592653589793;
+const double PI = 3.141;
 
 // Function to generate sinusoidal values
 std::vector<double> generateSin(double amplitude, double frequency, double samplingRate, int points) {
